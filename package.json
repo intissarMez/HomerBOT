@@ -1,0 +1,17 @@
+{
+  "name": "homerbot",
+  "version": "1.0.0",
+  "description": "A little bit of homer simpson wisdom never hurt somebody",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author" : {
+    "name": "Intissar Elmezrouai",
+    "twitter": "@intissarMez"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.1"
+  }
+}
